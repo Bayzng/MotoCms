@@ -1,0 +1,42 @@
+.basic {
+    width: 60rem;
+    margin-left: 11rem;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.sizeOne img {
+    width: 34.3rem;
+}
+
+.sizeTwo img {
+    width: 16.8rem;
+}
+
+.basicOne {
+    display: flex;
+}
+
+.basicContent {
+    margin: 10px;
+}
+
+.extrals {
+    margin-top: 1rem;
+}
+
+.imageContent {
+    margin-top: -7rem;
+    padding: 10px;
+    color: white;
+}
+
+.youtube {
+    font-size: 2rem;
+    color: red;
+}
+
+.haader {
+    margin-left: 5.4rem;
+}

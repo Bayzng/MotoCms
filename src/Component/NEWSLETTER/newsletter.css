@@ -1,0 +1,65 @@
+.newsletter {
+    background-image: url(https://img.freepik.com/premium-photo/tasty-appetizing-classic-italian-spaghetti-with-tomato-sauce_117406-842.jpg?w=1060);
+    border-radius: 30px;
+    width: 72rem;
+    height: 12rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 5rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.newsletter-one {
+    display: flex;
+    justify-content: space-around;
+}
+
+.news-one {
+    color: white;
+    margin-top: 3rem;
+}
+
+.news-one h4 {
+    margin-top: -1rem;
+}
+
+.news-two {
+    margin-top: 5rem;
+}
+
+
+.news-button {
+    padding: 10px;
+    border: 2px solid white;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    width: 22rem;
+    background-color: black;
+}
+
+.news-button input {
+    outline: none;
+    border: none;
+    margin-right: 10rem;
+    background-color: black;
+    color: white;
+}
+
+input::placeholder {
+    color: white;
+    opacity: 1;
+}
+
+.submit-button {
+    padding: 10px;
+    border: 3px solid white;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    width: 10rem;
+}
+
+.submit-button:hover {
+    background: none;
+    color: white;
+}
